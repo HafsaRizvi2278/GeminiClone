@@ -40,8 +40,11 @@ A responsive and minimal clone of Google's Gemini AI interface, built using **Re
 git clone https://github.com/hafsarizvi2278/GeminiClone.git
 cd GeminiClone
 
-npm run deploy
-
+git clone https://github.com/your-username/gemini-clone.git
+cd gemini-clone
+npm install
+npm run dev
+⚠️ Don’t forget to add your Gemini API key in the appropriate config file.
 
 🙋‍♀️ Author
 Hafsa Rizvi
